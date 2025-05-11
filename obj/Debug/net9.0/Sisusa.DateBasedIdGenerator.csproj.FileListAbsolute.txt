@@ -1,0 +1,11 @@
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\bin\Debug\net9.0\Sisusa.DateBasedIdGenerator.deps.json
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\bin\Debug\net9.0\Sisusa.DateBasedIdGenerator.dll
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\bin\Debug\net9.0\Sisusa.DateBasedIdGenerator.pdb
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\obj\Debug\net9.0\Sisusa.DateBasedIdGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\obj\Debug\net9.0\Sisusa.DateBasedIdGenerator.AssemblyInfoInputs.cache
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\obj\Debug\net9.0\Sisusa.DateBasedIdGenerator.AssemblyInfo.cs
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\obj\Debug\net9.0\Sisusa.DateBasedIdGenerator.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\obj\Debug\net9.0\Sisusa.DateBasedIdGenerator.dll
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\obj\Debug\net9.0\refint\Sisusa.DateBasedIdGenerator.dll
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\obj\Debug\net9.0\Sisusa.DateBasedIdGenerator.pdb
+E:\Documents\GitHub\Sisusa.DateBasedIdGenerator\obj\Debug\net9.0\ref\Sisusa.DateBasedIdGenerator.dll

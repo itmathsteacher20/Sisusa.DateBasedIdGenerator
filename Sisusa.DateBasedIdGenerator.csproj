@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>Simple id generator</Title>
+    <Description>Small id generator that generates ids based on the current date and time. No guarantee of uniqueness - uses `Random.Shared.Next()` for the 'serial' part of the number.</Description>
+    <Copyright>T_Dlamini (c) 2025</Copyright>
+    <RepositoryUrl>https://github.com/itmathsteacher20/Sisusa.DataBasedIdGenerator/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>serial;id;generator</PackageTags>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
